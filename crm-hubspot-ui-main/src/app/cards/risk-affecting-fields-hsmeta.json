@@ -1,0 +1,11 @@
+{
+  "uid": "risk_affecting_fields_card",
+  "type": "card",
+  "config": {
+    "name": "Risk Affecting Fields",
+    "description": "View-only display of risk-influencing deal fields.",
+    "entrypoint": "/app/cards/risk-affecting-fields.tsx",
+    "location": "crm.record.tab",
+    "objectTypes": ["DEAL"]
+  }
+}

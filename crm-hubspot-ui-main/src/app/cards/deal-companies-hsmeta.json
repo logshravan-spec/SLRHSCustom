@@ -1,0 +1,11 @@
+{
+    "uid": "deal_companies_association_card",
+    "type": "card",
+    "config": {
+      "name": "Company",
+      "description": "Shows company associated to the deal.",
+      "entrypoint": "/app/cards/deal-companies-association.tsx",
+      "location": "crm.record.tab",
+      "objectTypes": ["DEAL"]
+    }
+  }

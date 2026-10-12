@@ -1,0 +1,11 @@
+{
+  "uid": "deal_required_steps_card",
+  "type": "card",
+  "config": {
+    "name": "Required steps for this Deal",
+    "description": "Shows required steps and rules for this deal.",
+    "entrypoint": "/app/cards/deal-required-steps.tsx",
+    "location": "crm.record.tab",
+    "objectTypes": ["DEAL"]
+  }
+}

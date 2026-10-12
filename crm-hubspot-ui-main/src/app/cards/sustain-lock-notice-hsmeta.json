@@ -1,0 +1,11 @@
+{
+  "uid": "deal_sustain_lock_notice_card",
+  "type": "card",
+  "config": {
+    "name": "Sustain Lock Notice",
+    "description": "Warns users that financial and risk fields are locked because Sustain has an active status on this proposal.",
+    "entrypoint": "/app/cards/sustain-lock-notice.tsx",
+    "location": "crm.record.tab",
+    "objectTypes": ["DEAL"]
+  }
+}

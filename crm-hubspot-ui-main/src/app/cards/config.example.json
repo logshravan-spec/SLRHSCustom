@@ -1,0 +1,19 @@
+{
+  "HUBSPOT_TOKEN": "pat-eu1-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "HUBSPOT_TOKEN_FINANCIAL": "pat-eu1-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "USER_META_CUSTOM_OBJECT_TYPE_ID": "2-XXXXXXXX",
+  "CURRENCY_CUSTOM_OBJECT_TYPE_ID": "2-XXXXXXXX",
+  "DEFAULT_REGION_CODE": "AU1",
+  "PROPOSAL_MANAGER_PROPERTY": "proposal_manager",
+  "USER_META_USER_PROPERTY": "user_id",
+  "REGION_CODE_PROPERTY": "region_code",
+  "COMPANY_CODE_PROPERTY": "company_code",
+  "ALLOWED_CURRENCIES_PROPERTY": "allowed_currencies",
+  "SUSTAIN_STATUS_PROPERTY": "sustain_status",
+  "PROPOSAL_DIRECTOR_PROPERTY": "proposal_director",
+  "PROJECT_LOCATION_COUNTRY_PROPERTY": "project_location_country",
+  "REPUTATIONAL_RISK_PROPERTY": "reputational_risk",
+  "STAGE_1": "YOUR_IDENTIFY_STAGE_ID",
+  "STAGE_2": "YOUR_QUALIFY_STAGE_ID",
+  "STAGE_3": "YOUR_PROPOSAL_IN_PROGRESS_STAGE_ID"
+}

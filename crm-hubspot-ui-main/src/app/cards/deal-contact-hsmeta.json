@@ -1,0 +1,12 @@
+{
+  "uid": "deal_contact_association_card",
+  "type": "card",
+  "config": {
+    "name": "Deal Contact Association",
+    "location": "crm.record.sidebar",
+    "entrypoint": "/app/cards/PrimaryDealContact.jsx",
+    "objectTypes": [
+      "deals"
+    ]
+  }
+}

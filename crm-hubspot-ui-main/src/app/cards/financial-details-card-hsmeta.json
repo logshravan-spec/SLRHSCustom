@@ -1,0 +1,11 @@
+{
+  "uid": "deal_financial_details_card",
+  "type": "card",
+  "config": {
+    "name": "Financial Details",
+    "description": "View and manage deal financial details.",
+    "entrypoint": "/app/cards/financial-details-card.jsx",
+    "location": "crm.record.tab",
+    "objectTypes": ["DEAL"]
+  }
+}
